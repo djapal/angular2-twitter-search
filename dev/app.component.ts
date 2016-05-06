@@ -1,5 +1,5 @@
-import {Component} from 'angular2/core';
-import {OnInit} from "angular2/core";
+import {Component} from '@angular/core';
+import {OnInit} from "@angular/core";
 import {TwitterService} from "./twitter.service";
 import {TweetComponent} from "./tweet.component";
 
